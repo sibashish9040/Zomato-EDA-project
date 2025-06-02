@@ -8,6 +8,7 @@
 - Handle missing values and data inconsistencies
 - Analyze rating distribution using `Rating color` and `Rating text`
 - Explore relationships between city, cost, and rating
+- Perform `join` action to join to different datasets based on common features
 - Visualize data with heatmaps, pie charts, and countplots
 - Use `groupby` for summarizing key metrics
 
